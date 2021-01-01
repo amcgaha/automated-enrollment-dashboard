@@ -1,5 +1,7 @@
 # Automated Enrollment Dashboard
-A summer camp wants to know how many campers have applied so far this year. I created an automated dashboard with Python and Google Sheets that shows cumulative applications for each day of the year.
+A summer camp wants to know how many campers have applied so far this year. After creating a historical model for comparison, I built an a dashboard with Google Sheets that shows how many cumulative applications have been submitted each day. The data is [automatatically updated using this Python script](https://github.com/amcgaha/automated-enrollment-dashboard/blob/main/auto_enrollment_dashboard.py). 
+
+This image shows an example of one of the dashboard views. Other views include different performance indicators and a forecast based on the historical model.
 
 ![Image](https://github.com/amcgaha/automated-enrollment-dashboard/blob/main/images/dashboard_preview.png)
 
